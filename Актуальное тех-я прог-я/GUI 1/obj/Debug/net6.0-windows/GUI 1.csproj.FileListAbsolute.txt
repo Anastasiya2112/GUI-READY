@@ -1,0 +1,17 @@
+E:\Актуальное тех-я прог-я\GUI 1\obj\Debug\net6.0-windows\GUI 1.csproj.AssemblyReference.cache
+E:\Актуальное тех-я прог-я\GUI 1\obj\Debug\net6.0-windows\GUI_1.Form1.resources
+E:\Актуальное тех-я прог-я\GUI 1\obj\Debug\net6.0-windows\GUI 1.csproj.GenerateResource.cache
+E:\Актуальное тех-я прог-я\GUI 1\obj\Debug\net6.0-windows\GUI 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Актуальное тех-я прог-я\GUI 1\obj\Debug\net6.0-windows\GUI 1.AssemblyInfoInputs.cache
+E:\Актуальное тех-я прог-я\GUI 1\obj\Debug\net6.0-windows\GUI 1.AssemblyInfo.cs
+E:\Актуальное тех-я прог-я\GUI 1\obj\Debug\net6.0-windows\GUI 1.csproj.CoreCompileInputs.cache
+E:\Актуальное тех-я прог-я\GUI 1\bin\Debug\net6.0-windows\GUI 1.exe
+E:\Актуальное тех-я прог-я\GUI 1\bin\Debug\net6.0-windows\GUI 1.deps.json
+E:\Актуальное тех-я прог-я\GUI 1\bin\Debug\net6.0-windows\GUI 1.runtimeconfig.json
+E:\Актуальное тех-я прог-я\GUI 1\bin\Debug\net6.0-windows\GUI 1.dll
+E:\Актуальное тех-я прог-я\GUI 1\bin\Debug\net6.0-windows\GUI 1.pdb
+E:\Актуальное тех-я прог-я\GUI 1\obj\Debug\net6.0-windows\GUI 1.dll
+E:\Актуальное тех-я прог-я\GUI 1\obj\Debug\net6.0-windows\refint\GUI 1.dll
+E:\Актуальное тех-я прог-я\GUI 1\obj\Debug\net6.0-windows\GUI 1.pdb
+E:\Актуальное тех-я прог-я\GUI 1\obj\Debug\net6.0-windows\GUI 1.genruntimeconfig.cache
+E:\Актуальное тех-я прог-я\GUI 1\obj\Debug\net6.0-windows\ref\GUI 1.dll
